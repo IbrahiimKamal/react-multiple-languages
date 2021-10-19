@@ -7,7 +7,7 @@ const Hello = () => (
     <I18n t="hello" />
 
     <NavLink ignoreLocale to="/en/hello">
-      English
+      English!
     </NavLink>
     <NavLink ignoreLocale to="/fr/hello">
       French
